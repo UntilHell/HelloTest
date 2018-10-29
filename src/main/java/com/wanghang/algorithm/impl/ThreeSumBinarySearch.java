@@ -20,7 +20,7 @@ public class ThreeSumBinarySearch implements ThreeSum {
                 }
             }
         }
-        return 0;
+        return cnt;
     }
 
 
